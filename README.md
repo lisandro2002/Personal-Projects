@@ -18,6 +18,8 @@ The prediction program includes heat maps, histograms, pair plots, scatter plots
 - This is a C++ program that uses the backtracking algorithm to solve a Sudoku puzzle. 
 If no solution is found, the program will catch the error and print a message.
 
+Link: https://github.com/lisandro2002/Personal-Projects/blob/main/C%2B%2B/SudokuSolver/SudokuSolver.cpp
+
 ### Fake News Predictions
 - The focus of this model was to predict if a piece of news was fake based on the title and keywords found in the article considered as misleading or inaccurate information by employing Natural Language Processing algorithms.
 
