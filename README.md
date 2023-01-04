@@ -8,10 +8,19 @@ I have experience in C++, Python, and Java, as well as experience creating proje
 
 ## Courses
 
-List your personal projects, including:
-- Project name
-- Description of the project
-- Link to the project (GitHub repository or live website)
+###Penguins Species Prediction
+- Predicting the distinct species of penguins based on features such as height, length, and width. I utilized SVM models, decision trees,  Cross-Validation, Confusion Matrices, and Confidence Intervals.
+- The prediction program includes heat maps, histograms, pair plots, scatter plots, and visualization tools that are utilized to view the data distribution and trends of the penguins' data using modules such as seaborn and sklearn.metrics
+###Credit Card Default Prediction
+-Using machine learning models to predict the likelihood someone with a credit card will default based on their balanced and age in python
+The prediction program includes heat maps, histograms, pair plots, scatter plots, and visualization tools that are utilized to view the data distribution and trends of the credit card users’ data
+###Sudoku Solution Solver
+-This is a C++ program that uses the backtracking algorithm to solve a Sudoku puzzle. 
+If no solution is found, the program will catch the error and print a message.
+
+Fake News Predictions
+The focus of this model was to predict if a piece of news was fake based on the title and keywords found in the article considered as misleading or inaccurate information by employing Natural Language Processing algorithms.
+
 
 ## Education
 
@@ -24,6 +33,6 @@ List your personal projects, including:
 
 - Email: lisandro_torres@uri.edu
 
-- https://www.linkedin.com/in/lisandro-torres-8bb1b61ba/
+- Linkedin: https://www.linkedin.com/in/lisandro-torres-8bb1b61ba/
 
 
