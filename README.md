@@ -12,7 +12,7 @@ I have experience in C++, Python, and Java, as well as experience creating proje
 - Predicting the distinct species of penguins based on features such as height, length, and width. I utilized SVM models, decision trees,  Cross-Validation, Confusion Matrices, and Confidence Intervals.
 - The prediction program includes heat maps, histograms, pair plots, scatter plots, and visualization tools that are utilized to view the data distribution and trends of the penguins' data using modules such as seaborn and sklearn.metrics
 
-Link: 
+Link: https://github.com/lisandro2002/Personal-Projects/blob/main/DataScience/PenguinsPredictions/PenguinsPredictions.ipynb
 
 ### Credit Card Default Prediction
 - Using machine learning models to predict the likelihood someone with a credit card will default based on their balanced and age in python
